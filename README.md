@@ -2,8 +2,7 @@
 - 👀 I’m interested in studing Git
 - 🌱 I’m currently learning THIS
 - 💞️ I’m looking to collaborate on students of Git
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me HERE
 - ⚡ Fun fact: a love lemons
 
 <!---
